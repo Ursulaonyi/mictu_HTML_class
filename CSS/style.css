@@ -21,3 +21,44 @@ p{
 .apply-segoe{
     color:red;
 }
+
+/* CREATED STKYE RULES FOR html_desgin.html page
+    LIST OF FEATURES
+    [FONT-family, font Size, colour, align the blocks,
+     background color, background image] */
+
+.block1{
+    font-size: 14px;
+    color: tomato;
+    background-color: blue;
+    background-size: 600px;
+    margin: -10px 0px 0px 0px;
+    padding: 10px 20px 30px 50px;
+    width: 300px;
+}
+.block2{
+    font-size: 14px;
+    color: blue;
+    background-color: tomato;
+    /*background-image: url(../HTML/image/1stpicture.png);*/
+    background-size: 600px;
+    background-repeat: no-repeat;
+    margin: -10px 0px 0px 0px;
+    padding: 10px 20px 30px 50px;
+    width: 300px;
+}
+.block3{
+    font-size: 14px;
+    color: white;
+    background-color: greenyellow;
+    /*background-image: url(../HTML/image/1stpicture.png);*/
+    background-size: 600px;
+    background-repeat: no-repeat;
+    margin: -10px 0px 0px 0px;
+    padding: 10px 20px 30px 50px;
+    width: 300px;
+}
+.blockparent{
+    display: flex;
+    justify-content: space-around;
+}
